@@ -12,7 +12,7 @@ function App() {
 
       This test is supposed to help you to find yourself
            
-      <button>Start test</button>
+      <button className='startBtn'>Start test</button>
      
 
     </div>

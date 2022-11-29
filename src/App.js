@@ -8,9 +8,10 @@ function App() {
   return (
     <div className="App">
 
-      This test is supposed to help you to find yourself
+      <h1>Gay test</h1>
 
-      
+      This test is supposed to help you to find yourself
+           
       <button>Start test</button>
      
 
